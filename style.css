@@ -1,5 +1,6 @@
+
 body {
-  margin: 0 auto;
+  margin: 0;
 }
 
 .app {
@@ -26,6 +27,7 @@ body {
 }
 
 .form {
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 }
